@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/alex-117/memoize-it-server#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mongodb": "^4.2.2"
   }
 }
